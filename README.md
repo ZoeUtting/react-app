@@ -48,3 +48,9 @@ export default tseslint.config({
   },
 })
 ```
+
+
+# Zoe's Notes
+Following along the React Tutorial for Beginners By programming with Mosh
+https://www.youtube.com/watch?v=SqcY0GlETPk&t=3384s
+
